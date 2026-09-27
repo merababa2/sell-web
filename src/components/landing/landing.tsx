@@ -139,7 +139,7 @@ export default function Landing({ openNow }: { openNow: boolean }) {
       <section className="relative flex min-h-[100svh] flex-col justify-end overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/images/hero.jpg"
+            src="https://images.pexels.com/photos/18126715/pexels-photo-18126715.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1080&w=1920"
             alt="Wood-fired truffle pizza at OTRO"
             className="h-full w-full object-cover"
           />
